@@ -9,4 +9,4 @@ doing pixel-wise summation given two filtered images.  <br />
 
 To run the programs, please use the following command: <br />
 
-python3 main.py <one image path> <the other image path>
+python3 main.py [one image path] [the other image path]
